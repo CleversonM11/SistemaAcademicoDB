@@ -47,7 +47,7 @@ Automatizar processos acadêmicos como matrículas, lançamento de notas e gera�
 | Nome               | Função                | Contato                  |
 |--------------------|-----------------------|--------------------------|
 | Edson Silveira      | Frontend       | edsonsilveira619@gmail.com           |
-| Cleverson Mozer        | Backend             | x@gmail.com          |
+| Cleverson Mozer        | Backend             | cleversonmozer@gmail.com          |
 | Mauricio Bairos    | Modelagem do BD               | x@gmail.com         |
 | Tiago da Luz    | Modelagem do BD               | x@gmail.com         |
 
